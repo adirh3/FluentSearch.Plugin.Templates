@@ -1,0 +1,15 @@
+{
+    "author": "Fluent Search",
+    "classifications": [ "fluentsearch" ],
+    "description": "A basic template for Fluent Search plugin",
+    "name": "Fluent Search plugin",
+    "identity": "Fluent.Plugin",
+    "groupidentity": "Fluent.Plugin",
+    "shortName": "fluent.plugin",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "Template",
+    "preferNameDirectory": "true"
+}
